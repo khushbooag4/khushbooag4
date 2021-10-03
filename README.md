@@ -9,7 +9,7 @@
 - Currently working @Reactjs and create React App . Builidng Tools for Human
 - 📫 How to reach me 
 
-Mail me on Khushbooagarwal.cse@jecrc.ac.in
+Mail me on kushbooagarwal3584@gmail.com
 
 
 
