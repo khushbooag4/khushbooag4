@@ -27,7 +27,7 @@
   <tr>
     <td>
     <a href="https://github.com/khushbooag4">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=khushbooag4&show_icons=true&count_private=true&theme=buefy&icon_color=7957d5&hide_border=true" alt="Khushboo Agarwal's github stats" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=khushbooag4&show_icons=true&count_private=true&theme=buefy&icon_color=7957d5&hide_border=true" alt="Khushboo Agarwal's GitHub stats" />
     </a>
     </td>
   </tr>
