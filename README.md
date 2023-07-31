@@ -27,10 +27,10 @@
   <tr>
     <td>
     <a href="https://github.com/khushbooag4">
-        <img align="center"  width="48%" src="https://github-readme-stats.vercel.app/api?username=khushbooag4&show_icons=true&count_private=true&theme=buefy&icon_color=7957d5&hide_border=true" alt="Khushboo Agarwal's GitHub stats" />
+        <img width="48%" src="https://github-readme-stats.vercel.app/api?username=khushbooag4&show_icons=true&count_private=true&theme=buefy&icon_color=7957d5&hide_border=true" alt="Khushboo Agarwal's GitHub stats" />
     </a>
       <a href="https://github.com/khushbooag4">
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khushbooag4&theme=buefy&icon_color=7957d5&hide_border=true" alt="Khushboo Agarwal's GitHub stats" />
+        <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=khushbooag4&theme=buefy&icon_color=7957d5&hide_border=true" alt="Khushboo Agarwal's GitHub stats" />
     </a>
 <!--       <img width="48%" src="https://github-readme-stats.vercel.app/api?username=khushbooag4&show_icons=true&theme=jolly" />
       <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=khushbooag4&theme=jolly" /> -->
