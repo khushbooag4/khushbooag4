@@ -6,7 +6,7 @@
 - Currently working on some technologies in the market and learning more about their pros and cons. Building Tools for Human 🚀🦾
 
 ### 🤝 Connect with me: 
-<a href="kushbooagarwal3584@gmail.com">![Mail To](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="mailto: kushbooagarwal3584@gmail.com">![Mail To](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/khushboo-agarwal-8b72151bb/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 </a>
 <a href="https://medium.com/@kushbooagarwal3584">![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
