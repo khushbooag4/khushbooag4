@@ -30,10 +30,5 @@ TECH STACK
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=khushbooag4&show_icons=true&count_private=true&theme=buefy&icon_color=7957d5&hide_border=true" alt="Khushboo Agarwal's github stats" />
     </a>
     </td>
-    <td rowspan="2">
-      <a href="https://github.com/khushbooag4">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushbooag4&locale=en&show_icons=true&count_private=true&theme=buefy&icon_color=7957d5&hide_border=true" alt="khushbooag4" />
-    </a>
-    </td>
   </tr>
 </table>
