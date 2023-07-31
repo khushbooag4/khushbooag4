@@ -3,7 +3,7 @@
 - 👀 I’m interested in Exploring new opportunities
 - 💞️ I’m looking to collaborate on Open Source Projects where I can use these skills. Get some hands-on Experience
 - I love Reading Books. My Best Book till is Paulo Coelho's Alchemist and The Kite Runner by Khaled Hosseini
-- Currently working on some technologies in the market and learning more about their pros and cons. Building Tools for Human 🚀🦾
+- Working on technologies in the market and learning more about their pros and cons. Building Tools for Humans 🚀🦾
 
 ### 🤝 Connect with me: 
 <a href="mailto: kushbooagarwal3584@gmail.com">![Mail To](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
