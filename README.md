@@ -36,11 +36,4 @@ TECH STACK
     </a>
     </td>
   </tr>
-  <tr>
-    <td>
- <a href="https://github.com/khushbooag4">
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=khushbooag4&theme=buefy&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=DD2727&currStreakLabel=7a58d5&fire=DD2727" alt="khushbooag4" />
-    </a> 
-    </td>
-  </tr>
 </table>
