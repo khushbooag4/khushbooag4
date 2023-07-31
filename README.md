@@ -3,10 +3,10 @@
 - 👀 I’m interested in Exploring new opportunities
 - 💞️ I’m looking to collaborate on Open Source Projects where I can use these skills. Get some hands-on Experience
 - I love Reading Books. My Best Book till is Paulo Coelho's Alchemist and The Kite Runner by Khaled Hosseini
-- Working on technologies in the market and learning more about their pros and cons. Building Tools for Humans 🚀🦾
+- Working on technologies(development & analytics) in the market and learning more about their pros and cons. Building Tools for Humans 🚀🦾
 
 ### 🤝 Connect with me: 
-<a href="mailto: kushbooagarwal3584@gmail.com">![Mail To](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=kushbooagarwal3584@gmail.com">![Mail To](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/khushboo-agarwal-8b72151bb/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 </a>
 <a href="https://medium.com/@kushbooagarwal3584">![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
@@ -29,6 +29,11 @@
     <a href="https://github.com/khushbooag4">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=khushbooag4&show_icons=true&count_private=true&theme=buefy&icon_color=7957d5&hide_border=true" alt="Khushboo Agarwal's GitHub stats" />
     </a>
+      <a href="https://github.com/khushbooag4">
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khushbooag4&theme=buefy&icon_color=7957d5&hide_border=true" alt="Khushboo Agarwal's GitHub stats" />
+    </a>
+<!--       <img width="48%" src="https://github-readme-stats.vercel.app/api?username=khushbooag4&show_icons=true&theme=jolly" />
+      <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=khushbooag4&theme=jolly" /> -->
     </td>
   </tr>
 </table>
