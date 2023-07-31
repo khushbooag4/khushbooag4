@@ -11,9 +11,6 @@
 </a>
 <a href="https://medium.com/@kushbooagarwal3584">![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
 
-##
-- 💬 If you have any questions/feedback, please do not hesitate to reach out to me!
-
 ## Tech Stack 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -25,8 +22,6 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-
 <br>
 <table>
   <tr>
@@ -37,3 +32,4 @@
     </td>
   </tr>
 </table>
+- 💬 If you have any questions/feedback, please do not hesitate to reach out to me!
